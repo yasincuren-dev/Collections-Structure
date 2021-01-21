@@ -24,8 +24,6 @@ namespace Collections
             Console.WriteLine(isimler[0]);//Fakat bu boş basar. Çünkü referansımızı değiştirdik. Yeni bir array oluşturduk gibi düşün.
 
             Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++");
-            Console.WriteLine("\n");
-
 
             List<string> isimler2 = new List<string> {"Kerem","Yasin","Ecem","Ender"};
             Console.WriteLine(isimler2[0]);
